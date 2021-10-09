@@ -1,0 +1,13 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	CHECK_DIGIT       3005
+//	CHECK_BIT         3009
+//	ZERO              3012
+//	PRINT             3016
+//	ALPHABET          301F
+//	FINISH            3027
+//	VALUE_ZERO        3028
+//	VALUE_A           3029
+

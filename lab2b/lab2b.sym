@@ -1,0 +1,25 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	LOOP              3000
+//	PRINT             300D
+//	ASCII_0           3016
+//	DIV               3017
+//	DIVLOOP           3019
+//	SAVE_R7           301F
+//	DONE              3020
+//	PUSH              3021
+//	OVERFLOW          302F
+//	DONE_PUSH         3030
+//	PUSH_SaveR3       3033
+//	PUSH_SaveR4       3034
+//	POP               3035
+//	UNDERFLOW         3042
+//	DONE_POP          3043
+//	POP_SaveR3        3046
+//	POP_SaveR4        3047
+//	STACK_END         3048
+//	STACK_START       3049
+//	STACK_TOP         304A
+
